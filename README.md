@@ -1,14 +1,8 @@
 # Data Driven Decision Making
  Machine Learning eXplainability, Interpretability, Handling Uncertainity, SHAP (SHapley Additive exPlanations), incorporates central concepts regarding human decision making, interaction and information design, information visualization and human-computer interaction. 
-### Projects
+### Project Bike Sharing Regression, eXplainability and Interpretability of the model with [SHAP(Shapley values)](https://shap.readthedocs.io/en/latest/)
 
-
-### Seminars 
-
-### References
-
-
-\==========================================
+==========================================
 Bike Sharing Dataset
 ==========================================
 
@@ -52,10 +46,9 @@ Associated tasks
 	- Regression: 
 		Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
 	
-	- Event and Anomaly Detection:  
+	- Event and Anomaly Detection:
 		Count of rented bikes are also correlated to some events in the town which easily are traceable via search engines.
-		For instance, query like "2012-10-30 washington d.c." in Google returns related results to Hurricane Sandy. Some of the important events are 
-		identified in [1]. Therefore the data can be used for validation of anomaly or event detection algorithms as well.
+		For instance, query like "2012-10-30 washington d.c." in Google returns related results to Hurricane Sandy. Some of the important events are identified in [1]. Therefore the data can be used for validation of anomaly or event detection algorithms as well.
 
 
 =========================================
