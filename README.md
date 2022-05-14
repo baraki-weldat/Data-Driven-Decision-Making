@@ -1,7 +1,6 @@
 # Data Driven Decision Making
  Machine Learning eXplainability, Interpretability, Handling Uncertainity, SHAP (SHapley Additive exPlanations), incorporates central concepts regarding human decision making, interaction and information design, information visualization and human-computer interaction. 
 ### Project Bike Sharing Regression, eXplainability and Interpretability of the model with [SHAP(Shapley values)](https://shap.readthedocs.io/en/latest/)
-
 ==========================================
 Bike Sharing Dataset
 ==========================================
@@ -112,3 +111,12 @@ Contact
 =========================================
 	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
+### References 
+- Alvarez-Melis, D., & Jaakkola, T. S. (2018). On the Robustness of Interpretability Methods. http://arxiv.org/abs/1806.08049
+- Dombrowski, A.-K., Alber, M., Anders, C. J., Ackermann, M., Müller, K.-R., & Kessel, P. (2019). Explanations can be manipulated and geometry is to blame. http://arxiv.org/abs/1906.07983
+- Laugel, T., Lesot, M.-J., Marsala, C., Renard, X., & Detyniecki, M. (2019). The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations.
+- Molnar, C. (2021). Interpretable Machine Learning: A Guide for Making Black Box Models Explainable.
+- Murdoch, W. J., Singh, C., Kumbier, K., Abbasi-Asl, R., & Yu, B. (2019). Interpretable machine learning: definitions, methods, and applications. https://doi.org/10.1073/pnas.1900654116
+- Rudin, C. (2018). Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead. http://arxiv.org/abs/1811.10154
+- Slack, D., Hilgard, S., Jia, E., Singh, S., & Lakkaraju, H. (2020). Fooling LIME and SHAP: Adversarial attacks on post hoc explanation methods. AIES 2020 - Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 180–186. https://doi.org/10.1145/3375627.3375830
+
